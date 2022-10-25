@@ -18,4 +18,5 @@ This is a Simple Voting system made with `HTML`, `CSS`, `JavaScript`, `PHP` and 
 go to `http://127.0.0.1/` to load the index file
 
 ## Contributors 
+- John Migwi
 - Kiprotich Shadrack
