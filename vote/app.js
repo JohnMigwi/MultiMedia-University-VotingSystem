@@ -35,7 +35,10 @@ submitVoteBtn.addEventListener("click", () => {
         e.classList.remove('active');
         e.classList.add("voted");
     })
-    checkVote();
+    setInterval(() => {
+        checkVote(); 
+    }, 1000);
+    
     
 });
 
